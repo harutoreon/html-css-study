@@ -1,0 +1,27 @@
+.font-size-px {
+  font-size: 40px;
+}
+
+.font-size-em {
+  font-size: 2em;
+}
+
+.font-size-rem {
+  font-size: 3rem;
+}
+
+.font-size-percent {
+  font-size: 200%;
+}
+
+.font-size-small {
+  font-size: small;
+}
+
+.font-size-medium {
+  font-size: medium;
+}
+
+.font-size-large {
+  font-size: large;
+}
