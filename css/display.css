@@ -1,0 +1,21 @@
+.box {
+  display: block;
+  width: 500px;
+  background: lightblue;
+}
+
+.item {
+  display: inline;
+  width: 200px;   /* 無視される */
+  margin: 20px 0; /* 上下は無視される */
+  background: lightgreen;
+}
+
+.badge {
+  display: inline-block;
+  width: 100px;
+  height: 40px;
+  margin: 10px;
+  background: orange;
+  text-align: center;
+}
