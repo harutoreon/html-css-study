@@ -1,0 +1,9 @@
+div.box {
+  width: fit-content;
+  background-color: deepskyblue;
+}
+
+span.box {
+  width: auto;
+  background-color: deepskyblue;
+}
