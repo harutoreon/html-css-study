@@ -1,0 +1,37 @@
+div.static {
+  position: static;
+  background-color: deepskyblue;
+}
+
+.relative {
+  position: relative;
+  top: 10px;
+  left: 20px;
+  background-color: darkorange;
+}
+
+div.parent {
+  position: relative; /* 基準点になる */
+  background-color: khaki;
+}
+
+div.child {
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  background-color: deepskyblue;
+}
+
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: blue;
+}
+
+.sidebar-title {
+  position: sticky;
+  top: 0;
+  background-color: deeppink;
+}
